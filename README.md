@@ -1,2 +1,3 @@
-# teste-unitarios-alura
-Node.js: testes unitários e de integração: repositório para armazenar os códigos desenvolvidos durante o curso de teste unitários da Alura.
+# nodejs-express-mongoDB
+
+Este repositório foi criado para armazenar os códigos do curso "Node.js: criando uma API Rest com Express e MongoDB" da Alura. Este curso serve como uma base para a trilha de estudos, fornecendo uma introdução e conceitos básicos sobre como criar uma API Rest com Node.js, Express e MongoDB. Fazendo parte de minha jornada pessoal de aprendizado. Estou seguindo uma trilha de estudos para revisar e aprofundar os conceitos que já conheço antes de avançar para o próximo curso. Acredito que essa abordagem me proporcionará uma base mais sólida e uma compreensão mais profunda dos tópicos abordados.
